@@ -1,4 +1,4 @@
-## Excercise 3
+## Excercise 3.0
 ### git workshop
 
 Group members:<br>
